@@ -1,3 +1,1 @@
-Esta é uma API genérica que foi desenvolvida com base nos princípios do CQRS, Mediator e DDD. 
-Ela foi projetada para fornecer uma estrutura sólida e flexível que permite a construção de sistemas escaláveis e altamente coesos, separando as operações de leitura e escrita, facilitando a manutenção e a evolução do código, e mantendo o foco nas regras de negócios.
-
+This is a generic API developed based on the principles of CQRS, Mediator, and DDD. It was designed to provide a solid and flexible framework that enables the construction of scalable and highly cohesive systems, separating read and write operations, facilitating code maintenance and evolution, while keeping the focus on business rules.
